@@ -3,7 +3,7 @@
 This video game is the project for the course Video Game Programming of the master degree in computer science (University of Udine).   
 It was developed with Giacomo Colussi (Github: GiacomoColussi)   
 The video game is in Italian and had to be developed following a specific outline. In this case, the outline was Colour Alchemy. 
-You can find the 3D Unity Project and the last version of the game in the OpusChromaticum folder
+You can find the 3D Unity Project.
 
 ![](images/s1.png)
 ![](images/s2.png)
